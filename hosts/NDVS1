@@ -1,3 +1,9 @@
+Compression = 9
+PMTU = 1492
+PMTUDiscovery = yes
+Address = 62.210.211.120
+Port = 10422
+
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAy8toF6j8YJUCJb4pDbZd1XNfkFvlSfaMjGulokX+A2IIIJSjUtgo
 GP9XSoXqTbGhgRX40brR9huAvrJJ7AN96dXeiF6fLnWui3DMiW8j2/cnkQZxtit0
