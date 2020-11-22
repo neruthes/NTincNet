@@ -2,7 +2,7 @@ Compression = 9
 PMTU = 1492
 PMTUDiscovery = yes
 Address = 47.92.38.157
-Subnet = Subnet = 10.104.2.1/32
+Subnet = Subnet = 10.104.22.1/32
 Port = 10422
 
 -----BEGIN RSA PUBLIC KEY-----
