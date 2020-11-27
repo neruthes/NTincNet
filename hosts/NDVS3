@@ -1,0 +1,19 @@
+Compression = 9
+PMTU = 1492
+PMTUDiscovery = yes
+Address = ndvs3.wan.neruthes.xyz
+Port = 10422
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEA49XLgjR6rIjE3DCADsrfRQUg/lS/ZaPnNvK4O1vUESLKJuaFz7fZ
+e5S5Qm6bSWGj0TY1ztG4HKGENtWkbK++RN1MaITQHopSHSlnfg9z4xRByM9cKY5z
+Z5NXjcve6aEQz5cmS++WtGvVtLTgv8eSaqooD19//Xa4gsbMIH7qdF+wUndslPeU
+STitojwvis6cKa4+Enqdxw0uqLX3SII2XUNxPzRALp+OZFHwWjdXVNUFhhjHMxLi
+CG48dzSBx6pqvKeBbRnIeTpTAFddbZ2JeZK57/xcSsrjyO4YNe66RK7NUehAc3o3
++g+noekIgBkfN85CB4PVSeyhUb3GxG3YXJTt2+r2JVJ18/u/VkmVBWPxmz+10jDi
+En91SrF7VlOyWsud/WE0G07UwK0ldre+tD5/hS7OgbnigspdMwo7FywM7sdmYKMi
+DPsW65JK2b0Fv9tBw/XDc4KtU7qvN+tKahv0UJkp+kxN8HUrlpXnuuWaBU484hlI
+BM2DTNTmUqWa+3GhFZa3qVYNbl/ZWHkxfsY6t+l7D4egm1Cgh7Ix/4mxhUM3wYqu
+wZp8KKr/4GlcjFimnplx449PV2SAv8j4bOLa3jo07c5fUexF/yC++dSneXuKmYA1
+5LNAvkJNkd6OU5q1CitkuVjBnNCnn+DuVmifMMaxjJSI4ZC7lqDWOGcCAwEAAQ==
+-----END RSA PUBLIC KEY-----
