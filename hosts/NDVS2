@@ -1,7 +1,7 @@
 Compression = 9
 PMTU = 1492
 PMTUDiscovery = yes
-Address = ndvs2.wan.neruthes.xyz
+Address = 141.164.56.244
 Port = 10422
 
 -----BEGIN RSA PUBLIC KEY-----
